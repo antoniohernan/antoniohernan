@@ -28,5 +28,5 @@ Puedes encontrarme en:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=antoniohernan alt=antoniohernan /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=antoniohernan&show_icons=true&include_all_commits=true)](https://github.com/antoniohernan/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=antoniohernan&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/antoniohernan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohernan&layout=compact)](https://github.com/antoniohernan/github-readme-stats)
