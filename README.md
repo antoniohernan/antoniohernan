@@ -22,10 +22,3 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=antoniohernan&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/antoniohernan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohernan&layout=compact)](https://github.com/antoniohernan/github-readme-stats)
-
-## My featured repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniohernan&repo=cddf)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniohernan&repo=deploy_monitor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniohernan&repo=route53ssl)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniohernan&repo=azuredeallocatevms)](https://github.com/anuraghazra/github-readme-stats)
