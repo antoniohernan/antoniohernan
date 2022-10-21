@@ -2,12 +2,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-antonio.hernan@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antonio.hernan@protonmail.com)](mailto:antonio.hernan@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-antoniohernan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniohernan/)](https://www.linkedin.com/in/antoniohernan/) 
 [![Github Badge](https://img.shields.io/badge/-antoniohernan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/antoniohernan/)](https://www.github.com/antoniohernan/) 
-[![Twitter Badge](https://img.shields.io/badge/-ah3rn4n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ah3rn4n/)](https://www.twitter.com/ah3rn4n/) 
+[![Twitter Badge](https://img.shields.io/badge/-ah3rn4n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ah3rn4n/)](https://www.twitter.com/ah3rn4n/)<br> 
 [![HomePage Badge](https://img.shields.io/badge/prueba%20de%20concepto.es-web-blue?style=flat&link=https://pruebadeconcepto.es/)](https://pruebadeconcepto.es/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?logo=instagram&logoColor=white)](https://www.instagram.com/ah3rn4n/) 
 [![Github Badge](https://img.shields.io/github/followers/antoniohernan?style=social)](https://img.shields.io/github/followers/antoniohernan?style=social)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ahernanob)
-[![Credly Badge](https://img.shields.io/badge/-Credly-green?logo=credly&logoColor=white)](https://www.credly.com/users/antonio-j-hernan-obispo/badges)
+[![Credly Badge](https://img.shields.io/badge/-Credly-green?logo=credly&logoColor=white)](https://www.credly.com/users/antonio-j-hernan-obispo/badges)<br>
 [![Goodreads Badge](https://img.shields.io/badge/-Goodreads-red?logo=goodreads&logoColor=white)](https://www.goodreads.com/ah3rn4n)
 
 Computer scientist by vocation.<br><br>
