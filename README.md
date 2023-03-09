@@ -66,8 +66,10 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" title="AZU AZ-400" alt="AZ-400" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZU AZ-900" alt="AZ-900" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZU SC-900" alt="SC-900" with="80" height="80"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="AZU DP-900" alt="DP-900" with="80" height="80"/>&nbsp;
+<img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="AZU DP-900" alt="DP-900" with="80" height="80"/>
 
+<img src="images/gitops_level1.png" title="GITOPS_LVL1" alt="GITOPS_LVL1" with="80" height="80"/>&nbsp;
+<img src="images/gitops_scalelevel2.png" title="GITOPS_LVL2" alt="GITOPS_LVL2" with="80" height="80"/>
 
 ---
 
