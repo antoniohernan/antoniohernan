@@ -78,3 +78,5 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antoniohernan&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohernan&layout=compact)](https://github.com/antoniohernan/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=antoniohernan&theme=oldie&row=1)](https://github.com/antoniohernan/github-profile-trophy)
