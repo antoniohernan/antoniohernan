@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/-Credly-green?logo=credly&logoColor=white" alt="Credly Badge"/>
 </a>
 <a href="mailto:antonio.hernan@pruebadeconcepto.es">
- <img src="https://img.shields.io/badge/-antonio.hernan@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Mail Badge"/>
+ <img src="https://img.shields.io/badge/-antonio.hernan@pruebadeconcepto.es-c14438?style=flat&logo=Gmail&logoColor=white" alt="Mail Badge"/>
 </a>
 <a href="https://www.twitter.com/ah3rn4n/">
  <img src="https://img.shields.io/badge/-ah3rn4n-00acee?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
