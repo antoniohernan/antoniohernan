@@ -72,7 +72,7 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 <img src="images/gitops_level1.png" title="GITOPS_LVL1" alt="GITOPS_LVL1" with="80" height="80"/>&nbsp;
 <img src="images/gitops_scalelevel2.png" title="GITOPS_LVL2" alt="GITOPS_LVL2" with="80" height="80"/>
 <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" title="ISC2 CC" alt="CC" with="80" height="80"/>
-<img src="https://images.credly.com/size/110x110/images/8375d164-5488-4332-a959-b01c1b1da34c/image.png" title="Kraken Hunter" alt="Sysdig" with="80" height="80"/>
+<img src="https://images.credly.com/images/648cd3ce-48eb-4170-8404-f565405943ed/blob" title="Kraken Hunter" alt="Sysdig" with="80" height="80"/>
 
 ---
 
