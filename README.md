@@ -63,8 +63,8 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 ### My Certifications
 
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS SAA-C03" alt="AWS SAA-C03" with="80" height="80"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" title="AZU AZ-104" alt="AZ-104" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" title="AZU AZ-400" alt="AZ-400" with="80" height="80"/>&nbsp;
+<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" title="AZU AZ-104" alt="AZ-104" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZU AZ-900" alt="AZ-900" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" title="AZU SC-900" alt="SC-900" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="AZU DP-900" alt="DP-900" with="80" height="80"/>
