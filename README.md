@@ -67,8 +67,8 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" title="AZU AZ-104" alt="AZ-104" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZU AZ-900" alt="AZ-900" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" title="AZU SC-900" alt="SC-900" with="80" height="80"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="AZU DP-900" alt="DP-900" with="80" height="80"/>
-
+<img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="AZU DP-900" alt="DP-900" with="80" height="80"/><br> 
+<img src="https://images.credly.com/images/9373f4a3-cfbd-4aa3-ba16-485240a705cc/converted20251229-32-ylsx3d.png" title="GitHub Advanced Security" alt="GH-500" with="80" height="80"/>
 <img src="images/gitops_level1.png" title="GITOPS_LVL1" alt="GITOPS_LVL1" with="80" height="80"/>&nbsp;
 <img src="images/gitops_scalelevel2.png" title="GITOPS_LVL2" alt="GITOPS_LVL2" with="80" height="80"/>
 <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" title="ISC2 CC" alt="CC" with="80" height="80"/>
