@@ -73,6 +73,8 @@ Obsessed with installing <a href='https://www.scummvm.org/' target=_blank><u>Scu
 <img src="images/gitops_scalelevel2.png" title="GITOPS_LVL2" alt="GITOPS_LVL2" with="80" height="80"/>
 <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" title="ISC2 CC" alt="CC" with="80" height="80"/>
 <img src="https://images.credly.com/images/648cd3ce-48eb-4170-8404-f565405943ed/blob" title="Kraken Hunter" alt="Sysdig" with="80" height="80"/>
+<img src="https://learn.devinenterprise.com/assets/devin.png" title="Devin Foundations Badge" alt="Devin" with="80" height="80"/>
+
 
 ---
 
